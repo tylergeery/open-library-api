@@ -1,5 +1,5 @@
 Django<2.3 # Auto-get any patches in the 2.2 line
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 django-cors-headers==3.0.2
 gunicorn==19.9.0
 psycopg2==2.8.2
